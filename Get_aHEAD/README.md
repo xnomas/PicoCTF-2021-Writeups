@@ -62,7 +62,7 @@ Also nothing, we can just see that `Red` is set with a GET request, and `Blue` w
 
 ### For windows users
 In powershell
-```
+```powershell
 curl -Uri http://mercury.picoctf.net:15931/ -Method HEAD
 
 StatusCode        : 200
@@ -84,7 +84,7 @@ RawContentLength  : 0
 Flag! 
 
 ### Linux
-```
+```bash
 curl --HEAD http://mercury.picoctf.net:15931/
 
 HTTP/1.1 200 OK
