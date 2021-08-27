@@ -5,7 +5,13 @@ Writeups for PicoCTF 2021
 If you see an error please just open an isuse. 
 
 </br>
-Here's how I did:
+
+## Questions: 
+If you have a question we can discuss [here](https://github.com/xnomas/PicoCTF-2021-Writeups/discussions)
+
+
+</br>
+## How I did:
 </br>
 
 ![me](./me.png)
